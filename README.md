@@ -13,7 +13,7 @@ Hi 👋, I'm a passionate Cybersecurity Developer with extensive experience in b
 - **Technologies**: Familiar with cloud security (AWS, Azure), container security (Docker, Kubernetes), and network security tools (Wireshark, Nmap, Metasploit).
 
 ## Key Projects
-- **pyfalcon-api**: A Python-based tool suite for interacting with FalconPy, the CrowdStrike Falcon API Software Development Kit..
+- **pyfalconapi**: A Python-based tool suite for interacting with FalconPy, the CrowdStrike Falcon API Software Development Kit..
 - **IncidentResponder**: A PowerShell script suite for real-time incident detection and automated response actions.
 - **AssetTracker**: A Go application for dynamic asset inventory management across hybrid cloud environments.
 - **PentestToolkit**: A Bash and C# toolkit for streamlining penetration testing workflows, including custom exploit modules.
