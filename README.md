@@ -1,6 +1,6 @@
 # Cybersecurity Developer
 
-Hi 👋, I'm a passionate Cybersecurity Developer with extensive experience in building tools to enhance information security operations. I specialize in automating critical tasks such as **vulnerability management**, **incident response**, **asset inventory**, and **penetration testing**. My goal is to create efficient, scalable, and reliable solutions to protect systems and networks from evolving threats.
+Hello, I'm a passionate Cybersecurity Developer with extensive experience in building tools to enhance information security operations. I specialize in automating critical tasks such as **vulnerability management**, **incident response**, **asset inventory**, and **penetration testing**. My goal is to create efficient, scalable, and reliable solutions to protect systems and networks from evolving threats.
 
 ## Expertise
 - **Programming Languages**: Proficient in **Python**, **PowerShell**, **Go**, **Bash**, and **C#** for developing robust security tools.
