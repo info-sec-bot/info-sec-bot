@@ -5,7 +5,7 @@ Hi 👋, I'm a passionate Cybersecurity Developer with extensive experience in b
 ## Expertise
 - **Programming Languages**: Proficient in **Python**, **PowerShell**, **Go**, **Bash**, and **C#** for developing robust security tools.
 - **Tool Development**: Designed and implemented automation scripts and applications for:
-  - Vulnerability scanning and remediation workflows
+  - Web scraping and recon automation
   - Rapid incident response and forensic analysis
   - Asset discovery and inventory management
   - Penetration testing frameworks and exploit development
