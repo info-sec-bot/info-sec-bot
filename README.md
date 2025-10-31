@@ -7,7 +7,7 @@ Hello, I'm a passionate DevSecOps Engineer with extensive experience in building
 - **Tool Development**: Designed and implemented automation scripts and applications for:
   - Web scraping and reconnaissance automation
   - Rapid incident response and forensic analysis
-  - Asset discovery and inventory management
+  - Infrastructure as code tools to allow management of infrastructure with configuration files
   - Penetration testing frameworks and exploit development
 - **Security Domains**: Experienced in threat modeling, secure coding practices, and integrating security into CI/CD pipelines.
 - **Technologies**: Familiar with cloud security (AWS, Azure), container security (Docker, Kubernetes), and network security tools (Wireshark, Nmap, Metasploit).
