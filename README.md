@@ -15,10 +15,10 @@ Hello, I'm a passionate DevSecOps Engineer with extensive experience in building
 ## Key Projects
 - **w3bScrap3r**: A Python repository of programs designed to collect data from websites and REST API endpoints.
 - **pyfalconapi**: A Python-based tool suite for interacting with FalconPy, for real-time incident detection and automated response actions.
-- **PentestToolkit**: A Bash and C# toolkit for streamlining penetration testing workflows, including custom exploit modules.
+- **terra-dojo**: A collection of terraform scripts for declarative infrastructure automation.
 
 ## Additional Attributes
-- **Certifications**: Linux +, Security +, CCNA, Terraform Associate (Working), AWS Certified Architect (Working)
+- **Certifications**: Linux +, Security +, CCNA, Terraform Associate 004 (Working), AWS Certified Architect (Working)
 - **Open Source Contributions**: Actively contribute to security tool repositories and share custom scripts to support the cybersecurity community.
 - **Soft Skills**: Strong problem-solving, attention to detail, and effective communication for collaborating with cross-functional teams.
 - **Continuous Learning**: Stay updated with the latest threat intelligence, attack vectors, and defensive techniques through CTFs and security research.
