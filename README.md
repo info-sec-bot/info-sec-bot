@@ -1,6 +1,6 @@
-# Cybersecurity Developer
+# DevSecOps Engineer
 
-Hello, I'm a passionate Cybersecurity Developer with extensive experience in building tools to enhance information security operations. I specialize in automating critical tasks such as **vulnerability management**, **incident response**, **asset inventory**, and **penetration testing**. My goal is to create efficient, scalable, and reliable solutions to protect systems and networks from evolving threats.
+Hello, I'm a passionate DevSecOps Engineer with extensive experience in building tools to enhance information security operations. I specialize in automating critical tasks such as **vulnerability management**, **incident response**, **asset inventory**, and **penetration testing**. My goal is to create efficient, scalable, and reliable solutions to protect systems and networks from evolving threats.
 
 ## Expertise
 - **Programming Languages**: Proficient in **Python**, **PowerShell**, **Go**, **Bash**, and **C#** for developing robust security tools.
@@ -13,12 +13,12 @@ Hello, I'm a passionate Cybersecurity Developer with extensive experience in bui
 - **Technologies**: Familiar with cloud security (AWS, Azure), container security (Docker, Kubernetes), and network security tools (Wireshark, Nmap, Metasploit).
 
 ## Key Projects
+- **w3bScrap3r**: A Python repository of programs designed to collect data from websites and REST API endpoints.
 - **pyfalconapi**: A Python-based tool suite for interacting with FalconPy, for real-time incident detection and automated response actions.
-- **AssetTracker**: A Go application for dynamic asset inventory management across hybrid cloud environments.
 - **PentestToolkit**: A Bash and C# toolkit for streamlining penetration testing workflows, including custom exploit modules.
 
 ## Additional Attributes
-- **Certifications**: Linux +, Security +, CCNA, PCEP (Working), AWS CSAA (Working)
+- **Certifications**: Linux +, Security +, CCNA, Terraform Associate (Working), AWS Certified Architect (Working)
 - **Open Source Contributions**: Actively contribute to security tool repositories and share custom scripts to support the cybersecurity community.
 - **Soft Skills**: Strong problem-solving, attention to detail, and effective communication for collaborating with cross-functional teams.
 - **Continuous Learning**: Stay updated with the latest threat intelligence, attack vectors, and defensive techniques through CTFs and security research.
