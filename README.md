@@ -1,8 +1,13 @@
 <div align="center">
    <h1>Hi there, I'm <a href="">Bilaal</a> <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXo3MGt4aG9tdDRhajQ3amsyMHB3Nm16bTkybXUza2t2eHB5YWIzZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/a74pSGN7wvT7a/giphy.gif" width="25px"> </h1>
 
-Hello, I'm a passionate DevSecOps Engineer with extensive experience in building tools to enhance information security operations. I specialize in automating critical tasks such as **vulnerability management**, **incident response**, **asset inventory**, and **penetration testing**. My goal is to create efficient, scalable, and reliable solutions to protect systems and networks from evolving threats.
-
+<div align="center">
+<h3><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 🥷 Bilaal Williams | 💻 DevSecOps | 🛸 United States , PA <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3>
+</div>
+ <h5 align="center">
+   <i>⚡️Remember, it's all just 0's and 1's⚡️</i>
+  </h5>
+ 
 ## Expertise
 - **Programming Languages**: Proficient in **Python**, **PowerShell**, **Go**, **Bash**, and **C#** for developing robust security tools.
 - **Tool Development**: Designed and implemented automation scripts and applications for:
