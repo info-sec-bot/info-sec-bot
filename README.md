@@ -80,12 +80,15 @@
 - **Open Source Contributions**: Actively contribute to security tool repositories and share custom scripts to support the cybersecurity community.
 - **Soft Skills**: Strong problem-solving, attention to detail, and effective communication for collaborating with cross-functional teams.
 - **Continuous Learning**: Stay updated with the latest threat intelligence, attack vectors, and defensive techniques through CTFs and security research.
+<h2 align="center">🤝 Support</h2>
 
-## Connect with Me
-- **LinkedIn**: [Your LinkedIn Profile]
-- **Twitter/X**: [Your Twitter/X Handle]
-- **Blog**: [Your Blog or Medium Profile]
-- **Email**: [Your Professional Email]
+<p align="center">🎀 Contributions (<a href="https://guides.github.com/introduction/flow" title="GitHub flow">GitHub Flow</a>), 🔥 issues, and 🥮 feature requests are most welcome!</p>
+
+<p align="center">💙 If you like my projects, Give them ⭐ and Share it with friends!</p>
+</p>
+<!-- <p align="center">Made with ❤️ in India</p>
+
+<h1 align='center'>⚡️<i>Stay awesome!</i>⚡️</h1>
 
 Feel free to explore my repositories to check out my latest projects and contributions! Always open to collaborating on innovative security solutions.
 
