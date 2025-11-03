@@ -33,8 +33,9 @@
   <source media="(prefers-color-scheme: light)" srcset="./Skills_Animation_White.gif">
   <img align="left" alt="GIF description" src="./Skills_Animation_White.gif">
 </picture>
+<br />
 </p>
-
+<br />
 ## Key Projects
 - **w3bScrap3r**: A Python repository of programs designed to collect data from websites and REST API endpoints.
 - **pyfalconapi**: A Python-based tool suite for interacting with FalconPy, for real-time incident detection and automated response actions.
