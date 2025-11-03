@@ -76,7 +76,6 @@
 - **terra-dojo**: A collection of terraform scripts for declarative infrastructure automation.
 
 ## Additional Attributes
-- **Certifications**: Linux +, Security +, CCNA, Terraform Associate 004 (Working), AWS Certified Architect (Working)
 - **Open Source Contributions**: Actively contribute to security tool repositories and share custom scripts to support the cybersecurity community.
 - **Soft Skills**: Strong problem-solving, attention to detail, and effective communication for collaborating with cross-functional teams.
 - **Continuous Learning**: Stay updated with the latest threat intelligence, attack vectors, and defensive techniques through CTFs and security research.
