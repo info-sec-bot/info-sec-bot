@@ -1,6 +1,7 @@
 <div align="center">
    <h1>Hi there, I'm <a href="">Bilaal</a> <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXo3MGt4aG9tdDRhajQ3amsyMHB3Nm16bTkybXUza2t2eHB5YWIzZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/a74pSGN7wvT7a/giphy.gif" width="25px"> </h1>
 </div>
+
 <div align="center">
 <h3><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 🥷 Bilaal Williams | 💻 DevSecOps | 🛸 United States , PA <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3>
 </div>
@@ -13,6 +14,7 @@
 
 <img align="right" height="270px" width="450px" alt="GIF" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3N3dWo1eWtreTU5YW40NjNxeWJnajdpZmk3ZjQ4dmxjNWxpdjVnYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QpVUMRUJGokfqXyfa1/giphy.gif" />
 
+<p align="center">
   <h3> I'm a passionate DevSecOps Engineer.</h3>
 </p>
 
@@ -32,6 +34,7 @@
 
 <h2 align="center">Tᴇᴄʜ sᴛᴀᴄᴋ & Lᴀᴛᴇsᴛ ʙʟᴏɢs</h2> 
 <picture>
+   
   <source media="(prefers-color-scheme: dark)" srcset="./Skills_Animation_Dark.gif">
   <source media="(prefers-color-scheme: light)" srcset="./Skills_Animation_White.gif">
   <img align="left" alt="GIF description" src="./Skills_Animation_White.gif">
@@ -39,6 +42,7 @@
 <br />
 </p>
 <br />
+
 ### - Languages and Tools...
 
 <p align="center">
