@@ -17,13 +17,14 @@
  
  - <i>8+ years in Software Development, Information Security and Linux Administration</i>
    
- - 🔭 Experience with Cloud Engineering and Infrastructure as Code
+ - 🔭 Experience with Cloud Architecture and Infastructure as Code
 
  - 🛸 Into Advanced Pentesting, Quantum Computing, and Reverse Engineering.
  
  - Currenty working on projects in Python and Terraform HCL 🧮
  
  - Linux + | Security + | CCNA ⚖️
+   
  - Familiar with cloud (AWS, Azure, GCP), container (Docker, Podman, K8s), and IAC tools (Terraform, Ansible, Chef).
 
 ## Key Projects
