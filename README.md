@@ -1,6 +1,6 @@
 <div align="center">
    <h1>Hi there, I'm <a href="">Bilaal</a> <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXo3MGt4aG9tdDRhajQ3amsyMHB3Nm16bTkybXUza2t2eHB5YWIzZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/a74pSGN7wvT7a/giphy.gif" width="25px"> </h1>
-
+</div>
 <div align="center">
 <h3><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 🥷 Bilaal Williams | 💻 DevSecOps | 🛸 United States , PA <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3>
 </div>
