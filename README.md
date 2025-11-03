@@ -7,7 +7,9 @@
  <h5 align="center">
    <i>⚡️Remember, it's all just 0's and 1's⚡️</i>
   </h5>
- 
+<br />
+<img align="right" height="270px" width="450px" alt="GIF" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3N3dWo1eWtreTU5YW40NjNxeWJnajdpZmk3ZjQ4dmxjNWxpdjVnYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QpVUMRUJGokfqXyfa1/giphy.gif" />
+
 ## Expertise
 - **Programming Languages**: Proficient in **Python**, **PowerShell**, **Go**, **Bash**, and **C#** for developing robust security tools.
 - **Tool Development**: Designed and implemented automation scripts and applications for:
