@@ -10,14 +10,20 @@
 <br />
 <img align="right" height="270px" width="450px" alt="GIF" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3N3dWo1eWtreTU5YW40NjNxeWJnajdpZmk3ZjQ4dmxjNWxpdjVnYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QpVUMRUJGokfqXyfa1/giphy.gif" />
 
-## Expertise
-- **Programming Languages**: Proficient in **Python**, **PowerShell**, **Go**, **Bash**, and **C#** for developing robust security tools.
-- **Tool Development**: Designed and implemented automation scripts and applications for:
-  - Web scraping and reconnaissance automation
-  - Rapid incident response and forensic analysis
-  - Infrastructure as code tools to allow management of infrastructure with configuration files
-  - Penetration testing frameworks and exploit development
-- **Security Domains**: Experienced in threat modeling, secure coding practices, and integrating security into CI/CD pipelines.
+  <h3> I'm a passionate DevSecOps Engineer.</h3>
+</p>
+
+ - 🥀 Developer | Engineer | Security Researcher
+ 
+ - <i>8+ years in Software Development, Information Security and Linux Administration</i>
+   
+ - 🔭 Experience with Cloud Engineering and Infrastructure as Code
+
+ - 🛸 Into Advanced Pentesting, Quantum Computing, and Reverse Engineering.
+ 
+ - Currenty working on projects in Python and Terraform HCL 🧮
+ 
+ - Linux + | Security + | CCNA
 - **Technologies**: Familiar with cloud security (AWS, Azure), container security (Docker, Kubernetes), and network security tools (Wireshark, Nmap, Metasploit).
 
 ## Key Projects
