@@ -23,8 +23,8 @@
  
  - Currenty working on projects in Python and Terraform HCL 🧮
  
- - Linux + | Security + | CCNA
-- **Technologies**: Familiar with cloud security (AWS, Azure), container security (Docker, Kubernetes), and network security tools (Wireshark, Nmap, Metasploit).
+ - Linux + | Security + | CCNA ⚖️
+ - Familiar with cloud (AWS, Azure, GCP), container (Docker, Podman, K8s), and IAC tools (Terraform, Ansible, Chef).
 
 ## Key Projects
 - **w3bScrap3r**: A Python repository of programs designed to collect data from websites and REST API endpoints.
