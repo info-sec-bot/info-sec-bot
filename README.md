@@ -4,10 +4,13 @@
 <div align="center">
 <h3><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 🥷 Bilaal Williams | 💻 DevSecOps | 🛸 United States , PA <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3>
 </div>
+
  <h5 align="center">
    <i>⚡️Remember, it's all just 0's and 1's⚡️</i>
   </h5>
+  
 <br />
+
 <img align="right" height="270px" width="450px" alt="GIF" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3N3dWo1eWtreTU5YW40NjNxeWJnajdpZmk3ZjQ4dmxjNWxpdjVnYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QpVUMRUJGokfqXyfa1/giphy.gif" />
 
   <h3> I'm a passionate DevSecOps Engineer.</h3>
@@ -26,7 +29,7 @@
  - Linux + | Security + | CCNA ⚖️
    
  - Familiar with cloud (AWS, Azure, GCP), container (Docker, Podman, K8s), and IAC tools (Terraform, Ansible, Chef).
-<p align="center" >
+
 <h2 align="center">Tᴇᴄʜ sᴛᴀᴄᴋ & Lᴀᴛᴇsᴛ ʙʟᴏɢs</h2> 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./Skills_Animation_Dark.gif">
