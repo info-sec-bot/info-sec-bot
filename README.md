@@ -26,12 +26,14 @@
  - Linux + | Security + | CCNA ⚖️
    
  - Familiar with cloud (AWS, Azure, GCP), container (Docker, Podman, K8s), and IAC tools (Terraform, Ansible, Chef).
+<p align="center" >
 <h2 align="center">Tᴇᴄʜ sᴛᴀᴄᴋ & Lᴀᴛᴇsᴛ ʙʟᴏɢs</h2> 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./Skills_Animation_Dark.gif">
   <source media="(prefers-color-scheme: light)" srcset="./Skills_Animation_White.gif">
   <img align="left" alt="GIF description" src="./Skills_Animation_White.gif">
 </picture>
+</p>
 
 ## Key Projects
 - **w3bScrap3r**: A Python repository of programs designed to collect data from websites and REST API endpoints.
