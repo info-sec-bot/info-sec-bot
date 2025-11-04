@@ -20,7 +20,7 @@
 
  - 🥀 Developer | Engineer | Security Researcher
  
- - <i>8+ years in Software Development, Information Security and Linux Administration</i>
+ - <i>8+ years in System Engineering, Information Security and Linux Administration</i>
    
  - 🔭 Experience with Cloud Architecture and Infastructure as Code
 
