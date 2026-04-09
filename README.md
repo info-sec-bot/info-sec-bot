@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-<h3><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 🥷 Bilaal Williams | 💻 DevSecOps | 🛸 United States <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3>
+<h3><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 🥷 Bilaal Williams | 💻 Data Scientist | 🛸 United States <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3>
 </div>
 
  <h5 align="center">
@@ -15,18 +15,18 @@
 <img align="right" height="270px" width="450px" alt="GIF" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3N3dWo1eWtreTU5YW40NjNxeWJnajdpZmk3ZjQ4dmxjNWxpdjVnYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QpVUMRUJGokfqXyfa1/giphy.gif" />
 
 <p align="center">
-  <h3> I'm a passionate DevSecOps Engineer.</h3>
+  <h3> I'm a passionate Data Scientist and AI Engineer.</h3>
 </p>
 
- - 🥀 Developer | Engineer | Security Researcher
+ - 🥀 Data Scientist | DevSecOps Engineer | Security Researcher
  
- - <i>8+ years in System Engineering, Information Security and Linux Administration</i>
+ - <i>10+ years in Economics, Business Administration, System Engineering, Information Security and Linux Administration</i>
    
  - 🔭 Experience with Cloud Architecture and Infastructure as Code
 
- - 🛸 Into Advanced Pentesting, Quantum Computing, and Reverse Engineering.
+ - 🛸 Into Advanced Machine Learning, Quantum Computing, and Reverse Engineering.
  
- - Currenty working on projects in Python and Terraform HCL 🧮
+ - Currenty working on projects in Data Science, Machine Learning and Terraform HCL 🧮
  
  - Linux + | Security + | CCNA ⚖️
    
