@@ -74,7 +74,7 @@
 ## Key Projects
 - **w3bScrap3r**: A Python repository of programs designed to collect data from websites and REST API endpoints.
 - **pyfalconapi**: A Python-based tool suite for interacting with FalconPy, for real-time incident detection and automated response actions.
-- **terra-dojo**: A collection of terraform scripts for declarative infrastructure automation.
+- **SQLBigQuery**: A collection of jupyter notebooks that run SQL queries and analyses of BigQuery datasets.
 
 ## Additional Attributes
 - **Open Source Contributions**: Actively contribute to security tool repositories and share custom scripts to support the cybersecurity community.
@@ -86,7 +86,7 @@
 
 <p align="center">💙 If you like my projects, Give them ⭐ and Share it with friends!</p>
 </p>
-<!-- <p align="center">Made with ❤️ in India</p>
+<!-- <p align="center">Made with ❤️ on Earth </p>
 
 <h1 align='center'>⚡️<i>Stay awesome!</i>⚡️</h1>
 
