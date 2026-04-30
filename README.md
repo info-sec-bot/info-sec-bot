@@ -26,7 +26,7 @@
 
  - 🛸 Into Advanced Machine Learning, Quantum Computing, and Reverse Engineering.
  
- - Currenty working on projects in Data Science, Machine Learning and Terraform HCL 🧮
+ - Currenty working on projects in Security Automation, Machine Learning and Cloud Architecture 🧮
  
  - Linux + | Security + | CCNA ⚖️
    
